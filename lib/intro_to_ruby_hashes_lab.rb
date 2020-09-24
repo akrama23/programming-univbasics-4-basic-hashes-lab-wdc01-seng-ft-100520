@@ -4,7 +4,7 @@ empty_hash = {}
 end
 
 def my_hash
-  
+  empty_hash = {mom: "twenty"}
 end
 
 def pioneer

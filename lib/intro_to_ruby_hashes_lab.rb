@@ -1,14 +1,14 @@
 def new_hash 
- {}
+ hash= {}      #or just {}     # or Hash.new to add new hash 
   
 end
 
 def my_hash
-  empty_hash = {mom: "twenty"}
+  {mom: "twenty"}
 end
 
 def pioneer
-  pioneer_hash= {name: 'Grace Hopper'}
+   {name: 'Grace Hopper'}
 end
 
 
